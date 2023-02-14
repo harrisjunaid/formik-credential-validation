@@ -37,10 +37,10 @@ This project is a learning project demonstrating a scenario where a user credent
 
 ### Built With
 
-- [![React][react.js]]
-- [![Bootstrap][bootstrap.com]
-- [![Formik]]
-- [![Yup]]
+- React
+- Bootstrap
+- Formik
+- Yup
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- GETTING STARTED -->
