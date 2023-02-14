@@ -64,8 +64,7 @@ Need to have a background of HTML, JavaScript, JSX, Bootstrap, Formik and Yup in
 
 ## License
 
-Distributed under the MIT License. See `LICENSE.txt` for more information.
-
+Harris Junaid @ 2023
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- CONTACT -->
